@@ -1,7 +1,7 @@
-## Hi there 👋 It,s Vineeth Acharya (Zneuromancer)
+## Hi there 👋 It's Vineeth Acharya (Zneuromancer)
 
 # 💫 About Me:
-I love anything software related. Jack of all trades but a master of none. Coding, making music, 3D modelling are some of my passions.
+I love anything software related. Jack of all trades. Coding, making music, 3D modelling are some of my passions.
 
 
 ## 🌐 Socials:
